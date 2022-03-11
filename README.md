@@ -16,3 +16,7 @@ refresh properties
 
 ### get properties message again
 <img width="1064" alt="image" src="https://user-images.githubusercontent.com/59139337/157871799-548f3891-76f2-46ea-87a7-332185f911f4.png">
+
+https://spring.io/guides/gs/centralized-configuration/
+
+https://cloud.spring.io/spring-cloud-config/reference/html/
