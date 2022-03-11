@@ -4,6 +4,3 @@
 [submodule "config-client"]
 	path = config-client
 	url = https://github.com/IkhtiyorDev/config-client
-[submodule "config-repo"]
-	path = config-repo
-	url = https://github.com/IkhtiyorDev/config-repo
